@@ -3,5 +3,5 @@ mysqlclient==2.0.1
 pika==1.1.0
 bs4
 selenium==3.141.0
-requests==2.24.0
+requests==2.32.0
 wechatpy==1.8.14
